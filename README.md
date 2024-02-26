@@ -16,7 +16,7 @@ This app is based on the work of the APPENDIX B MATLAB® code, page 443, for the
 To use this app built in Appdesigner (an interactive development environment for designing an app layout and programming its behavior) you need to have installed MATLAB® R2021a. Unzip the file mypemfc.zip. Open the command window, navigate where the file mypemfc.app is located, and type "mypemfc". Or you can use the search folder toolbar.
 
 ```bash
-  >>cd ../folder/mypemfc.malpp
+  >>cd ../mypemfc
   >>mypemfc
   >>
 ```
