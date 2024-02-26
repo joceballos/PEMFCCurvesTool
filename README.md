@@ -1,5 +1,9 @@
 
 # PEMFC Curves Tool
+oswaldo@joceballos.com  
+www.joceballos.com  
+Phd Renewable Energy  
+### 
 
 A user interface to build the polarization and power curves of a 1-D isothermal model of a PEM Fuel Cell.
 
@@ -55,5 +59,4 @@ As with any simplified model, has its limitations. This is an illustrative appli
 - **Authors**
     - [Dr. Gholam Reza Molaeimanesh](https://its.iust.ac.ir/profile/en/molaeimanesh)
     - [Dr. Farschad Torabi](https://wp.kntu.ac.ir/ftorabi/)
-
 
